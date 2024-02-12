@@ -25,4 +25,4 @@ Contributions to this project are highly appreciated! If you have any ideas for 
 
 This project is licensed under the [MIT License](LICENSE), allowing for free and open use, modification, and distribution.
 
-(![Sticky Notes Preview](image.png))
+![Sticky Notes Preview](image.png)
