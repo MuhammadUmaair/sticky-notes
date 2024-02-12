@@ -1,6 +1,6 @@
 # Sticky Notes Web App
 
-Welcome to the Sticky Notes Web App repository! This project provides a simple yet effective way to manage your tasks, ideas, or reminders through digital sticky notes directly in your web browser.
+Welcome to Sticky Notes by Umair, a simple and intuitive web application designed to help you organize your thoughts, tasks, and ideas effortlessly. As a fullstack developer, I understand the importance of having a reliable tool to manage your notes efficiently, and Sticky Notes aims to provide just that.
 
 ## Features
 
@@ -26,3 +26,7 @@ Contributions to this project are highly appreciated! If you have any ideas for 
 This project is licensed under the [MIT License](LICENSE), allowing for free and open use, modification, and distribution.
 
 ![Sticky Notes Preview](image.png)
+
+---
+
+Developed with ❤️ by Umair, a passionate fullstack developer.
